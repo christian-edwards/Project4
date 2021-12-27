@@ -1,5 +1,5 @@
 import unittest
-from DiceRoller import roller
+from DiceRoller import rollerWith
 
 class MyTestCase(unittest.TestCase):
     def test_oneside(self):
