@@ -1,0 +1,16 @@
+************* Module DiceRoller
+DiceRoller.py:60:82: C0326: Exactly one space required after comma
+        logging.info("Successful roll of a %d sided die and lands on: %d" % (sides,randomnumber))
+                                                                                  ^ (bad-whitespace)
+DiceRoller.py:62:0: C0301: Line too long (116/100) (line-too-long)
+DiceRoller.py:1:0: C0103: Module name "DiceRoller" doesn't conform to snake_case naming style (invalid-name)
+DiceRoller.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+DiceRoller.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+DiceRoller.py:15:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+DiceRoller.py:39:0: C0116: Missing function or method docstring (missing-function-docstring)
+DiceRoller.py:60:8: W1201: Use lazy % formatting in logging functions (logging-not-lazy)
+DiceRoller.py:39:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+
+------------------------------------------------------------------
+Your code has been rated at 8.27/10 (previous run: 8.27/10, +0.00)
+
